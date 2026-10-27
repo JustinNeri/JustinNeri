@@ -24,7 +24,7 @@
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,100:2e1065&height=76&section=header&text=01%20%20%20ABOUT%20ME&fontSize=24&fontColor=ffffff&fontAlignY=56&animation=fadeIn" width="100%" alt="01 About Me" /></p>
-
+<!-- This is a single-line comment -->
 <table>
   <tr>
     <td width="55%" valign="top">
