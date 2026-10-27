@@ -1,4 +1,4 @@
-<!-- This is a single-line comment -->
+
 
 <p align="center">
   <a href="https://justinneri.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e1b4b,100:312e81&height=320&section=header&text=Justin%20Neri%20Pangilinan&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%20%20%7C%20%20%20Software%20Engineering%20%20%20%7C%20%20%20Generative%20AI&descSize=19&descAlignY=56&descColor=c7d2fe&animation=twinkling" width="100%" alt="Justin Neri Pangilinan" /></a>
@@ -258,3 +258,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,40:1e1b4b,100:020617&height=170&section=footer&text=Let%27s%20build%20something%20great&fontSize=26&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" alt="Let's build something great" />
 </p>
+<!-- This is a single-line comment -->
