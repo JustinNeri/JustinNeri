@@ -1,4 +1,4 @@
-<!-- This is a single-line HTML comment -->
+
 
 <p align="center">
   <a href="https://justinneri.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e1b4b,100:312e81&height=320&section=header&text=Justin%20Neri%20Pangilinan&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%20%20%7C%20%20%20Software%20Engineering%20%20%20%7C%20%20%20Generative%20AI&descSize=19&descAlignY=56&descColor=c7d2fe&animation=twinkling" width="100%" alt="Justin Neri Pangilinan" /></a>
@@ -142,7 +142,7 @@
     </td>
   </tr>
 </table>
-
+<!-- This is a single-line HTML comment -->
 <p align="center">
   <sub>ALSO CONTRIBUTED TO</sub><br />
   <a href="https://github.com/adriann47/Carepanion"><img src="https://img.shields.io/badge/Carepanion-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0F172A" alt="Carepanion Flutter" /></a>
@@ -226,6 +226,7 @@
     <a href="https://www.credly.com/badges/644ae1f9-9d54-4af9-bb43-35160cc78b04/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0F172A" alt="Cisco Data Analytics Essentials" /></a>
     <br />
     <a href="https://www.credly.com/badges/871d556d-e01e-4e89-83ed-f2fd2d6770ae/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0F172A" alt="Cisco Endpoint Security" /></a>
+    <!-- This is a single-line HTML comment -->
     <a href="https://www.credly.com/badges/9c6ce74a-8eee-443b-bd61-01550cab6278/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0F172A" alt="Cisco Cyber Threat Management" /></a>
     <br />
     <a href="https://www.credly.com/badges/0859cf9d-9505-4c99-aaf7-a1bd2d0026d5/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-AI%20Fundamentals%20with%20IBM-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0F172A" alt="Cisco AI Fundamentals with IBM" /></a>
