@@ -245,6 +245,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JustinNeri&hide_border=true&border_radius=12&background=0F172A&ring=818CF8&fire=C084FC&currStreakNum=F1F5F9&sideNums=A5F3FC&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&stroke=312E81" alt="GitHub contribution streak" />
 </p>
+<!-- This is a single-line comment -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=Let%27s+build+something+together.;Open+to+software+engineering+roles.;Say+hello%3A+justinneripangilinan2004%40gmail.com" alt="Call to action" />
