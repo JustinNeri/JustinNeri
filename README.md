@@ -200,6 +200,8 @@
   </table>
 </details>
 
+<!-- This is a single-line comment -->
+
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:431407,100:1e1b4b&height=76&section=header&text=06%20%20%20JOURNEY&fontSize=24&fontColor=ffffff&fontAlignY=56&animation=fadeIn" width="100%" alt="06 Journey" /></p>
 
 <table>
