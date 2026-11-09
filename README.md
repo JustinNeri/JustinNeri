@@ -142,7 +142,7 @@
     </td>
   </tr>
 </table>
-<!-- This is a single-line HTML comment -->
+
 <p align="center">
   <sub>ALSO CONTRIBUTED TO</sub><br />
   <a href="https://github.com/adriann47/Carepanion"><img src="https://img.shields.io/badge/Carepanion-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0F172A" alt="Carepanion Flutter" /></a>
